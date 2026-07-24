@@ -21,3 +21,5 @@ Face detection using OpenCV and LBF facemark model. This project detects faces i
 - `face detection 2.ipynb` — Main notebook with the face detection code
 - `lbfmodel.yaml` — Pre-trained LBF facemark model used for landmark detection# face-detection-project
 Face detection using OpenCV and LBF facemark model to detect faces, eyes, and nose from images.
+## Note
+The images in the `images` folder were downloaded from the internet and are used here only for testing and demonstration purposes of the face detection code. They are not original content and are not intended for commercial use.
